@@ -47,6 +47,6 @@ namespace DataInfo
     };
 
     const std::map<FPGAID, CPUSpec> fpga2spec {
-        { FPGAID::ACA68080, { "Apollo Team", "AC68080", "N/A", "N/A", "2013", "N/A", 0, 0, 0, 0, 0, 0 } },
+        { FPGAID::ACA68080, { "Apollo Team", "AC68080", "N/A", "28-65 nm", "2013", "N/A", 0, 0, 0, 0, 0, 0 } },
     };
 }
